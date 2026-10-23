@@ -207,14 +207,6 @@ You can display them here:
 * Serving web interfaces with Django.
 * Implementing speech-to-text and text-to-speech pipelines.
 * Connecting frontend and backend services.
-* Managing API credentials through environment variables.
-
-## 👩‍💻 Author
-
-**Padmavathy**
-
-GitHub: [padmavathy-mca](https://github.com/padmavathy-mca)
-
----
+* Managing API credentials through environment variables
 
 ⭐ If you find this project interesting, feel free to explore the repository and share your feedback.
