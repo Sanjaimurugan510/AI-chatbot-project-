@@ -137,8 +137,6 @@ The objective of this project is to develop an interactive AI voice assistant th
 
  Sanjai
 
-B.Tech – Computer Science and Engineering
-
 ## 📄 License
 
 This project is intended for educational and learning purposes. You may add an appropriate open-source license if you plan to distribute or reuse the project.
