@@ -84,12 +84,6 @@ Start the Streamlit application using:
 streamlit run app.py
 ```
 
-Open the local URL displayed in the terminal, usually:
-
-```text
-http://localhost:8501
-```
-
 ## 🧠 How It Works
 
 1. The user enters a question through text or voice input.
