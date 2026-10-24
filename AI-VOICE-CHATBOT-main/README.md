@@ -135,7 +135,7 @@ The objective of this project is to develop an interactive AI voice assistant th
 
 ## 👨‍💻 Author
 
- https://github.com/Sanjaimurugan510
+Sanjai-m(https://github.com/Sanjaimurugan510)
 
 ## 📄 License
 
