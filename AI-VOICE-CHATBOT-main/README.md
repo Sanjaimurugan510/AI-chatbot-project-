@@ -1,23 +1,3 @@
-# 🎙️ AI-Powered Voice Chatbot
-
-An AI-powered voice chatbot that allows users to interact naturally through speech. It converts spoken questions into text, generates intelligent responses using Google Gemini, and converts the responses into audio for playback in the browser.
-
-## 📌 Overview
-
-This project combines speech recognition, Generative AI, and text-to-speech technology to create a browser-based conversational assistant.
-
-The application uses **Django** to serve the web interface and **FastAPI** to handle backend APIs for speech transcription, AI responses, and audio generation.
-
-## ✨ Features
-
-* 🎤 **Voice Input:** Record speech using the browser microphone.
-* 📝 **Speech-to-Text:** Transcribe recorded audio using OpenAI Whisper.
-* 🤖 **AI Responses:** Generate conversational answers using Google Gemini.
-* 🔊 **Text-to-Speech:** Convert AI responses into audio using gTTS.
-* 💬 **Chat Interface:** Display user messages and AI responses in the browser.
-* 🌐 **Browser Audio Playback:** Listen to the generated responses directly in the web application.
-* 🔗 **API Integration:** Connect the Django frontend with the FastAPI backend.
-
 # 🎙️ AI Voice Assistant | Python + Gemini AI
 
 An AI-powered voice assistant built using Python that allows users to interact with an intelligent chatbot through text and voice in a web-based interface. The project integrates Gemini AI to generate responses and provides a simple, interactive user experience.
