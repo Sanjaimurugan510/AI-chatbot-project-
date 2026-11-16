@@ -1,7 +1,0 @@
-streamlit
-SpeechRecognition
-PyAudio
-pyttsx3
-python-dotenv
-google-genai
-openai-whisper
